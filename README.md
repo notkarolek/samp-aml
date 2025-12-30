@@ -9,6 +9,6 @@ unless you know how to patch it to be supported
 
 the ModLoaderCore.ini is important as it features a setting that let's more mods work
 
-AndroidModLoader is creation and property of RUSJJ aka [-=KILL MAN=-]
+AndroidModLoader is creation and property of @RusJJ aka [-=KILL MAN=-]
 
 I did not create any part of AndroidModLoader, I only uploaded this with the right config and additions
